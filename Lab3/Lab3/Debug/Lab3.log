@@ -1,0 +1,4 @@
+﻿  Lab3.cpp
+c:\users\a4tec\documents\visual studio 2017\projects\lab3\lab3\lab3.cpp(270): warning C4101: tmp: неиспользованная локальная переменная
+  Lab3.vcxproj -> C:\Users\a4tec\documents\visual studio 2017\Projects\Lab3\Debug\Lab3.exe
+  Lab3.vcxproj -> C:\Users\a4tec\documents\visual studio 2017\Projects\Lab3\Debug\Lab3.pdb (Partial PDB)
